@@ -9,6 +9,9 @@
 // #include <readline.h>
 // #include <editline/history.h>
 
+/* Function Prototypes */
+void remove_whitespace(char* str);
+
 using std::cin;
 using std::cout;
 using std::endl;
