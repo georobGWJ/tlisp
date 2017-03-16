@@ -5,6 +5,10 @@
 #include <string>
 #include <iomanip>
 
+/* OSX / Linux Libraries */
+// #include <readline.h>
+// #include <editline/history.h>
+
 using std::cin;
 using std::cout;
 using std::endl;
